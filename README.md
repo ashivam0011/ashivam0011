@@ -14,43 +14,40 @@ Currently, I am gaining industry experience as a **Full Stack Developer Intern**
 
 ---
 
-## 🧰 Tech Stack
-
-### **Languages**
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+### 🧰 Languages
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 <br />
 
-### **Frameworks, Platforms & Libraries**
+### 🧩 Frameworks, Platforms & Libraries
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Apache Spark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache_spark/apache_spark-original.svg" />
-<img align="left" alt="Hadoop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" />
-<img align="left" alt="PySpark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Apache Spark" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Apache_Spark_logo.svg" />
+<img align="left" alt="Hadoop" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" />
 
 <br />
 
-### **Cloud & Hosting**
+### ☁️ Cloud & Hosting
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
 
 <br />
 
-### **Databases**
+### 🗄️ Databases
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="DynamoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="DynamoDB" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Amazon_DynamoDB_logo.svg" />
 
 <br />
 
-### **Servers / Tools**
+### 🖥️ Servers / Tools
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="NiFi" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Apache_NiFi_logo.svg/1200px-Apache_NiFi_logo.svg.png" />
+<img align="left" alt="Apache NiFi" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Apache_NiFi_logo.svg" />
 
-<br />
+<br clear="left"/>
 
 ---
 
